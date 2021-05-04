@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itvitae_Zoo", "Itvitae_Zoo\Itvitae_Zoo.csproj", "{C29CD8A3-39DF-459A-A069-7671175C66A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itvitae_Zoo.ViewModels", "Itvitae_Zoo.ViewModels\Itvitae_Zoo.ViewModels.csproj", "{8916254E-E2D3-49F5-BFD8-F11026686F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itvitae_Zoo.Data", "Itvitae_Zoo.Data\Itvitae_Zoo.Data.csproj", "{D4436645-C734-44BE-ACF2-698EB5EBC26E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C29CD8A3-39DF-459A-A069-7671175C66A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C29CD8A3-39DF-459A-A069-7671175C66A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C29CD8A3-39DF-459A-A069-7671175C66A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8916254E-E2D3-49F5-BFD8-F11026686F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8916254E-E2D3-49F5-BFD8-F11026686F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8916254E-E2D3-49F5-BFD8-F11026686F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8916254E-E2D3-49F5-BFD8-F11026686F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4436645-C734-44BE-ACF2-698EB5EBC26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4436645-C734-44BE-ACF2-698EB5EBC26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4436645-C734-44BE-ACF2-698EB5EBC26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4436645-C734-44BE-ACF2-698EB5EBC26E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

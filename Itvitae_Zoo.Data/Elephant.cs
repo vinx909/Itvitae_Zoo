@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Itvitae_Zoo
+﻿namespace Itvitae_Zoo.Data
 {
-    sealed class Elephant : Animal
+    public sealed class Elephant : Animal
     {
         private const string nameElephant = "Elephant";
         private const int energyAddition = 25;

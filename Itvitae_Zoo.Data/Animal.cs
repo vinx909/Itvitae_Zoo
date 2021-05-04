@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Itvitae_Zoo
+﻿namespace Itvitae_Zoo.Data
 {
-    abstract class Animal
+    public abstract class Animal
     {
         private const int energyInitial = 100;
         private const int energyAddition = 25;
